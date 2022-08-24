@@ -5,4 +5,4 @@ This is my repository for the course Introduction to Data Science and AI at at C
 
 ### Assignment 1:
 Conducting an exploratory analysis on how life expectancy relates to GDP-per-capita.
-[link](https://github.com/calvinnsmith/Applied-Machine-Learning/tree/main/Ass1)
+[link](https://github.com/calvinnsmith/Applied-Machine-Learning/tree/main/Ass 1)
