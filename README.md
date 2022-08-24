@@ -12,4 +12,4 @@ Exploring K-means clustering and DBSCAN ([link](https://github.com/calvinnsmith/
 ### Assignment 4: Classifying e-mails.
 In this project we built different naive Bayes classifiers for the task of classifying e-mails as either spam or "ham" (i.e not spam) ([link](https://github.com/calvinnsmith/Data-Science-and-AI/tree/main/DIT406/Ass%204)).
 ### Assignment 5: Building CNN's
-In this project we explored building and training convolutional neural networks using TensorFlow and the MNIST digits dataset [link](https://github.com/calvinnsmith/Data-Science-and-AI/tree/main/DIT406/Ass%207)).
+In this project we explored building and training convolutional neural networks using TensorFlow and the MNIST digits dataset [link]((https://github.com/calvinnsmith/Data-Science-and-AI/tree/main/DIT406/Ass%207)).
